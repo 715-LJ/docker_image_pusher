@@ -1,5 +1,5 @@
 nginx:latest
 php:8.2-fpm
 redis:latest
-elasticsearch:7.10.0
+elasticsearch:latest
 mysql:8.0
