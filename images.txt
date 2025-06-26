@@ -1,5 +1,6 @@
 nginx:latest
 php:8.2-fpm
+go:1.23.0
 redis:latest
 elasticsearch:9.0.2
 mysql:8.0
