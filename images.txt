@@ -3,7 +3,6 @@ php:8.2-fpm
 redis:latest
 elasticsearch:9.0.2
 mysql:8.0
-rustfs:latest
 memcached:latest
 cp-zookeeper:latest
 kafka:latest
