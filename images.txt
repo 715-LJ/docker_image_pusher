@@ -4,6 +4,4 @@ redis:latest
 elasticsearch:9.0.2
 mysql:8.0
 memcached:latest
-cp-zookeeper:latest
-kafka:latest
-kafka-ui:latest
+golang:1.23
