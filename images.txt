@@ -4,4 +4,7 @@ redis:latest
 elasticsearch:9.0.2
 mysql:8.0
 memcached:latest
+golang:1.21
 golang:1.23
+postgres:14
+postgres:15
